@@ -52,8 +52,8 @@ capabilities into modern applications to deliver powerful, user-centric solution
                 <br>TypeScript
             </td>
             <td align="center" width="90">
-                <img src="https://skillicons.dev/icons?i=r" width="45" height="45" alt="r" />
-                <br>R
+                <img src="https://skillicons.dev/icons?i=anaconda" width="45" height="45" alt="anaconda" />
+                <br>Anaconda
             </td>
         </tr>
         <tr>
@@ -93,6 +93,10 @@ capabilities into modern applications to deliver powerful, user-centric solution
                 <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="django" />
                 <br>Django
             </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+                <br>Flask
+            </td>
         </tr>
         <tr>
             <td align="center" width="96">
@@ -100,20 +104,24 @@ capabilities into modern applications to deliver powerful, user-centric solution
                 <br>React
             </td>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-                <br>Vue
-            </td>
-            <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
                 <br>Next.js
             </td>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-                <br>Flask
+                <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+                <br>Vue
             </td>
             <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
                 <br>Docker
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="kubernetes" />
+                <br>Kubernetes
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="kubernetes" />
+                <br>Kafka
             </td>
             <td align="center" width="96">
                 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
@@ -128,8 +136,8 @@ capabilities into modern applications to deliver powerful, user-centric solution
                 <br>Azure
             </td>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-                <br>PostgreSQL
+                <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
+                <br>Git
             </td>
         </tr>
     </table>
