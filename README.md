@@ -16,7 +16,7 @@ capabilities into modern applications to deliver powerful, user-centric solution
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="center" style="witdh:100%">
+<div align="center" style="witdh:98%">
     <table align="center">
         <tr>
             <td align="center" width="96">
