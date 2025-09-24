@@ -52,6 +52,10 @@ capabilities into modern applications to deliver powerful, user-centric solution
                 <br>TypeScript
             </td>
             <td align="center" width="90">
+                <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="nodejs" />
+                <br>NodeJS
+            </td>
+            <td align="center" width="90">
                 <img src="https://skillicons.dev/icons?i=anaconda" width="45" height="45" alt="anaconda" />
                 <br>Anaconda
             </td>
@@ -74,10 +78,6 @@ capabilities into modern applications to deliver powerful, user-centric solution
                 <br>OpenCV
             </td>
             <td align="center" width="96">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas" />
-                <br>Pandas
-            </td>
-            <td align="center" width="96">
                 <img src="https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/681b1c8ea1f7435322e41d7f_78fcd12986d8e3be598f36c8bf2af9b9_Frame%2099808.svg" width="48" height="48" alt="langchain" />
                 <br>LangChain
             </td>
@@ -96,6 +96,10 @@ capabilities into modern applications to deliver powerful, user-centric solution
             <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
                 <br>Flask
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="dotnet" />
+                <br>.NET
             </td>
         </tr>
         <tr>
